@@ -1,9 +1,9 @@
 ## Hola👋 Soy Johan Romo, bienvenido a mi perfil de GitHub 
-**DESAROLLADOR FULL STACK**
+** DESAROLLADOR FULL STACK **
 
 
-<!--
-**zucker1567/zucker1567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ ✨ develop✨
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 📫 Como contactarme: Linkedin  ...
 - 😄 Pronombre: Romo ...
 - ⚡ Fun fact: ...
--->
+
+
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zucker1567/zucker1567)
